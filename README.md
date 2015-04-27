@@ -14,7 +14,7 @@ Final project for [Programming Mobile Applications for Android Handheld Systems:
 ## Building and Testing  
 
 * This project was built using Android Studio. 
-* Application was test with Robotium, located in `app/libs`. 
+* Application was tested with Robotium, located in `app/libs`. 
 * Test cases were run on a Galaxy Nexus S AVD emulator with API level 22.  
 
 ## Demo
