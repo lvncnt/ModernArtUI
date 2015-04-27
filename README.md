@@ -11,6 +11,7 @@ Final project for [Programming Mobile Applications for Android Handheld Systems:
 ## Screenshots
 
 *Main*
+
 ![alt tag](https://raw.githubusercontent.com/lvncnt/ModernArtUI/master/demo/Demo_Main.png)
 
 *SeekBar*
@@ -22,6 +23,7 @@ Final project for [Programming Mobile Applications for Android Handheld Systems:
 ![alt tag](https://raw.githubusercontent.com/lvncnt/ModernArtUI/master/demo/Demo_Dialog.png)
 
 *Visit MOMA*
+
 ![alt tag](https://raw.githubusercontent.com/lvncnt/ModernArtUI/master/demo/Demo_VisitMOMA.png)
 
   
