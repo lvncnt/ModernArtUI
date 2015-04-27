@@ -17,6 +17,11 @@ Final project for [Programming Mobile Applications for Android Handheld Systems:
 * Application was test with Robotium, located in `app/libs`. 
 * Test cases were run on a Galaxy Nexus S AVD emulator with API level 22.  
 
+## Demo
+
+[![MetroFramework](https://i.ytimg.com/vi/CMJ-uSLnPJ4/1.jpg?time=1430106352867)](https://youtu.be/CMJ-uSLnPJ4)
+
+
 ## Screenshots
 
 *Main*
