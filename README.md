@@ -1,4 +1,4 @@
-# ![alt tag](https://raw.githubusercontent.com/lvncnt/ModernArtUI/master/app/src/main/res/mipmap-hdpi/ic_launcher.png) Modern Art UI
+# ![alt tag](https://raw.githubusercontent.com/lvncnt/ModernArtUI/master/app/src/main/res/mipmap-mdpi/ic_launcher.png) Modern Art UI
 
 
 Final project for [Programming Mobile Applications for Android Handheld Systems: Part 1](https://class.coursera.org/androidpart1-003)
